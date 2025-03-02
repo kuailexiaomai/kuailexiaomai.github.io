@@ -1,9 +1,10 @@
 {
   "greeting": "Hiya",
-  "name": "亲爱的薇薇女士",
-  "greetingText": "即将成为一名女医生or女博士or女企业家or女科学家blah...",
-  "wishText": "希望快乐和爱与你一直同在 ;)",
-  "imagePath": "img/img/微信图片_20250302113705_png.png",        
+  "name": "Dear weiwei lady", 
+
+  "greetingText": "About to become a female doctor, female PhD, female entrepreneur, female scientist, etc..",
+  "wishText": "May happiness and love always be with you ;)",
+  "imagePath": "img/微信图片_20250302113705_png.png",        
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
